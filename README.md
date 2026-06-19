@@ -12,10 +12,10 @@
 |-------|---------|
 | **Title** | Esclavo del pasado |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
-| **Written On** | June 09, 2026 |
+| **Written On** | June 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/esclavo-del-pasado/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Esclavo del pasado](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/esclavo-del-pasado/) |
+| **Get License** | [License this song: Esclavo del pasado](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/esclavo-del-pasado/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,10 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> Mami, me tienes loquito, perdiendo todo el control
-> Esclavo de esa boca, mi única adicción
-> Bailando en la disco, sintiendo la tensión
-> Tu cuerpo es el fuego, robando mi razón
+> Baby, el pasado ya no vive aquí
+> Tu piel es fuego que me hace sentir
+> Perdido en besos que no sé fingir
+> Esclavo tuyo, no voy a huir
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
