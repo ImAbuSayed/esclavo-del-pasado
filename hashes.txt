@@ -5,6 +5,7 @@ This log tracks the cryptographic history and versioning for the song **Esclavo 
 | Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
 |:----------|:--------|:-------------------|:-----------------|:------------|
 | 2026-06-20T01:18:21.656655 | `v1` | `f14652bd339445475231baef2a69da4f675e0cf209021d59d231578645ccd5a3` | `69c6a4ae4605558dcfae47dc2bdcdbab9b4ca66c2c54d1b8b36cfc60527f875d` | `2026-06-20_esclavo-del-pasado-v1.txt` |
+| 2026-06-20T01:36:44.488891 | `v2` | `7d223409fa8476656a1e1000e57aaeb1f981d67f2fa31b8c17d11eded8f8ad98` | `6b6e3d17926cdf4cc8f0e45878da8baeb9da8341076afb1dc36ae2b03694b405` | `2026-06-20_esclavo-del-pasado-v2.txt` |
 
 ---
 *Written and Curated by Abu Sayed*

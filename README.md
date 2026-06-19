@@ -15,7 +15,7 @@
 | **Written On** | June 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/esclavo-del-pasado/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Esclavo del pasado](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/esclavo-del-pasado/) |
+| **Get License** | [Obtain a Music License for Esclavo del pasado](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/esclavo-del-pasado/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -115,8 +115,8 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 | Verification Detail | Information |
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
-| **Version** | `v1` |
-| **SHA-256 Hash** | `f14652bd339445475231baef2a69da4f675e0cf209021d59d231578645ccd5a3` |
+| **Version** | `v2` |
+| **SHA-256 Hash** | `7d223409fa8476656a1e1000e57aaeb1f981d67f2fa31b8c17d11eded8f8ad98` |
 | **Timestamp** | June 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
